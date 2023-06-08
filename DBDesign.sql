@@ -1,4 +1,4 @@
-reate Table Address(Address_Id INTEGER,
+Create Table Address(Address_Id INTEGER,
                      StreetName VARCHAR(50),
                      City VARCHAR(50),
                      State VARCHAR(40),
